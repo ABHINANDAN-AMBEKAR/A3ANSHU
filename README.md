@@ -38,14 +38,15 @@
 
 ### Animated Stats:
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINANDAN-AMBEKAR&theme=dark" height="214">
+<img src="https://github.com/ABHINANDAN-AMBEKAR/My-Data/blob/main/computer.gif" height="214">
 <img src="https://github.com/ABHINANDAN-AMBEKAR/My-Data/blob/main/coder.gif" height="214">
 </p>
 
 ### GitHub Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=ABHINANDAN-AMBEKAR&show_icons=true&theme=dark" height="183">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINANDAN-AMBEKAR&layout=compact&theme=dark" height="183"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ABHINANDAN-AMBEKAR&show_icons=true&theme=dark" height="160">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINANDAN-AMBEKAR&layout=compact&theme=dark" height="160">
+</p>
 
 
 
