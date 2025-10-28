@@ -1,5 +1,9 @@
 ![Banner](https://github.com/A3ANSHU/My-Data/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm ABHINANDAN AMBEKAR</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABHINANDAN-AMBEKAR&label=Profile%20Views&color=0e75b6&style=flat" alt="ABHINANDAN-AMBEKAR" />
+  <img src="https://img.shields.io/github/followers/ABHINANDAN-AMBEKAR?label=Followers&style=social" alt="ABHINANDAN-AMBEKAR" />
+</p>
 <h3 align="center">Tech Tactician: Bridging Engineering Excellence with Digital Wizardry</h3>
 
 - 🌱 I’m currently learning **Node.js**
@@ -34,13 +38,14 @@
 
 ### Animated Stats:
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=a3anshu&theme=dark" height="214">
-<img src="https://github.com/A3ANSHU/My-Data/blob/main/coder.gif" height="214"></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ABHINANDAN-AMBEKAR&theme=dark" height="214">
+<img src="https://github.com/ABHINANDAN-AMBEKAR/My-Data/blob/main/coder.gif" height="214">
+</p>
 
 ### GitHub Stats:
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=a3anshu&show_icons=true&theme=dark" height="183">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a3anshu&layout=compact&theme=dark" height="183"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ABHINANDAN-AMBEKAR&show_icons=true&theme=dark" height="183">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHINANDAN-AMBEKAR&layout=compact&theme=dark" height="183"></p>
 
 
 
